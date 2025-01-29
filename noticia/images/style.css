@@ -1,0 +1,66 @@
+    
+
+body{
+    /*para colocar alguma imagem tem que usar a (/) barra antes e apos qualquer comando, sempre use (;) ponto e virgula */
+    background-image: url(/images/ceu.jpg);
+    background-repeat:no-repeat ; 
+    background-size: cover;
+    background-attachment: local;
+    /* achei o local legalzinho mas o fixed é melhor*/
+    color: blue;
+}
+
+
+   #principal{
+   color: red;
+    
+  
+  
+   }
+   
+   #paragrafo{
+    
+    
+   }
+
+   .subdiv{
+   background-color: blueviolet;
+   }
+
+   #titulo{
+   color: blue;
+   /* color é pra mudar a cor da letra e o background color o fundo da pagina*/
+   }
+
+   .texto_verde{
+   color:yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
